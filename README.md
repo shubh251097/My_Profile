@@ -7,6 +7,23 @@
 
 
 
+Languages And Tools:
+
+Core Java
+MySQL
+Selenium
+Apache POI
+Maven
+Jenkins
+Git
+Cucumber BDD
+TestNG
+JIRA
+Zephyr Squad
+POSTMAN
+HTML
+CSS
+
 <!---
 shubh251097/shubh251097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
