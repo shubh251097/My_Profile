@@ -4,8 +4,11 @@
 - 🌱 I’m currently learning 𝐀𝐏𝐈 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 using 𝐏𝐎𝐒𝐓𝐌𝐀𝐍
 - 💞️ I’m looking to collaborate on 𝐒𝐄𝐋𝐄𝐍𝐈𝐔𝐌 𝐮𝐬𝐢𝐧𝐠 𝐉𝐀𝐕𝐀, 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬, 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬
 - 📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 👉 www.linkedin.com/in/shubhamsultane
+- 
 
-
+  A passionate Software QA Engineer highly self-motivated and having a great enthusiasm for Software Testing.
+  I enjoy doing research and learning new testing tools and techniques with a passion for career growth.
+  My goal is to learn and contribute to the Software Testing Industry in every possible way.
 
 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐀𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:
 
