@@ -12,15 +12,14 @@
 
 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐀𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:
 
-Jira, Zephyr Squad, MS Excel,𝐂𝐨𝐫𝐞 𝐉𝐚𝐯𝐚, 
+𝐉𝐢𝐫𝐚,𝐙𝐞𝐩𝐡𝐲𝐫 𝐒𝐪𝐮𝐚𝐝,𝐌𝐒 𝐄𝐱𝐜𝐞𝐥,𝐂𝐨𝐫𝐞 𝐉𝐚𝐯𝐚, 
 𝐎𝐎𝐏𝐒, 
 𝐌𝐲𝐒𝐐𝐋,𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦,𝐌𝐚𝐯𝐞𝐧, 
 𝐉𝐞𝐧𝐤𝐢𝐧𝐬, 
-𝐆𝐢𝐭, GitHub, 
+𝐆𝐢𝐭,𝐆𝐢𝐭𝐇𝐮𝐛, 
 𝐂𝐮𝐜𝐮𝐦𝐛𝐞𝐫 𝐁𝐃𝐃, 
 𝐓𝐞𝐬𝐭𝐍𝐆, 
-𝐏𝐎𝐒𝐓𝐌𝐀𝐍, 
-𝐇𝐓𝐌𝐋
+𝐏𝐎𝐒𝐓𝐌𝐀𝐍
 
 <!---
 shubh251097/shubh251097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
