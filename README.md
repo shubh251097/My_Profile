@@ -6,9 +6,13 @@
 - 📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 👉 www.linkedin.com/in/shubhamsultane
 - 
 
-  A passionate Software QA Engineer highly self-motivated and having a great enthusiasm for Software Testing.
-  I enjoy doing research and learning new testing tools and techniques with a passion for career growth.
-  My goal is to learn and contribute to the Software Testing Industry in every possible way.
+  I am a self-motivated QA professional passionate about unearthing bugs and elevating the quality of a product.
+  
+Having a great enthusiasm for Software Testing I specialize in ensuring the highest quality of software through comprehensive testing processes and methodologies. My experience includes manual testing, test automation, and exploratory testing across a variety of applications.
+
+I am skilled in using testing tools and technologies such as JIRA, Selenium, Maven, Git, etc. My strong analytical and problem-solving skills allow me to quickly identify issues and work collaboratively with development teams to resolve them.
+
+My goal is to continue to develop my skills and knowledge as a Software Tester and contribute to the success of software development projects through comprehensive and effective testing processes.
 
 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐀𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:
 
