@@ -12,7 +12,7 @@
   
 Having a great enthusiasm for Software Testing I specialize in ensuring the highest quality of software through comprehensive testing processes and methodologies. My experience includes Manual Testing, Automation Testing, and Functional Testing across a variety of applications.
 
-I am skilled in using Testing Tools and Technologies such as JIRA, Selenium, Maven, Git, Jenkins etc. My strong analytical and problem-solving skills allow me to quickly identify issues and work collaboratively with development teams to resolve them.
+I am skilled in using Testing Tools and Technologies such as JIRA, Selenium, Cucumber BDD, Maven, Git, Jenkins, etc. My strong analytical and problem-solving skills allow me to quickly identify issues and work collaboratively with development teams to resolve them.
 
 My goal is to continue to develop my skills and knowledge as a Software QA Engineer and contribute to the success of Software Development Projects through comprehensive and effective testing processes.
 
