@@ -8,6 +8,7 @@
   
 
 
+
   I am a result-oriented Software Testing Professional with strong experience in ensuring the quality and reliability of software applications.
   
 I am enthusiastic about Software Testing. I specialize in ensuring the highest quality of software through comprehensive testing processes and methodologies. My experience includes Manual Testing, Automation Testing, and Functional Testing across a variety of applications.
