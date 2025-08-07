@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 𝐒𝐡𝐮𝐛𝐡𝐚𝐦 𝐒𝐮𝐥𝐭𝐚𝐧𝐞
+👋 Hi, I’m 𝐒𝐡𝐮𝐛𝐡𝐚𝐦 𝐒𝐮𝐥𝐭𝐚𝐧𝐞
   
 🔍 A Software QA Engineer passionate about uncovering bugs and ensuring product quality through precise testing practices.
 
