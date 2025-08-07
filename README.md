@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬, 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬.
 - 📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 👉 www.linkedin.com/in/shubhamsultane
   
-I’m a passionate and detail-driven QA Engineer with proven experience in delivering high-quality, reliable, and scalable software through a blend of Manual and Automation Testing.
+ I’m a passionate and detail-driven QA Engineer with proven experience in delivering high-quality, reliable, and scalable software through a blend of Manual and Automation Testing.
 
 🔍 I specialize in designing and executing robust test strategies to ensure product quality across web and API-based applications. My expertise lies in Functional, Regression, Smoke, and Integration Testing, following Agile/Scrum methodologies.
 
@@ -22,6 +22,7 @@ CI/CD & Version Control: Jenkins, Git, GitHub
 Project & Bug Tracking: JIRA
 
 Others: Strong knowledge of STLC, SDLC, and Defect Life Cycle
+
 
 🎯 My goal is to continue growing as a QA professional while contributing to reliable, user-centric, and high-performing software projects through structured and efficient testing processes.
 
