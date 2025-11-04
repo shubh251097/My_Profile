@@ -1,6 +1,6 @@
 👋 Hi, I’m 𝐒𝐡𝐮𝐛𝐡𝐚𝐦 𝐒𝐮𝐥𝐭𝐚𝐧𝐞
   
-🔍 A Software QA Engineer passionate about uncovering bugs and ensuring product quality through precise testing practices.
+🔍 QA Automation Engineer passionate about uncovering bugs and ensuring product quality through precise testing practices.
 
 💻 Currently working on Manual Testing, Selenium Automation (Java), and API Testing using Postman.
 
@@ -12,7 +12,7 @@
   
  I’m a passionate and detail-driven QA Engineer with proven experience in delivering high-quality, reliable, and scalable software through a blend of Manual and Automation Testing.
 
-🔍 I specialize in designing and executing robust test strategies to ensure product quality across web and API-based applications. My expertise lies in Functional, Regression, Smoke, and Integration Testing, following Agile/Scrum methodologies.
+🔍 I specialize in designing and executing robust test strategies to ensure product quality across web and API-based applications. My expertise lies in Functional, Regression, Smoke, and Integration Testing, following Agile Methodologies.
 
 🛠️ Tech Stack & Tools:
 
