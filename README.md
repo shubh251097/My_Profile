@@ -1,6 +1,6 @@
 👋 Hi, I’m 𝐒𝐡𝐮𝐛𝐡𝐚𝐦 𝐒𝐮𝐥𝐭𝐚𝐧𝐞
   
-🔍 QA Automation Engineer passionate about uncovering bugs and ensuring product quality through precise testing practices.
+🔍 Software Test Engineer passionate about uncovering bugs and ensuring product quality through precise testing practices.
 
 💻 Currently working on Manual Testing, Selenium Automation (Java), and API Testing using Postman.
 
@@ -24,7 +24,7 @@ Performance Testing: JMeter
 
 CI/CD & Version Control: Jenkins, Git, GitHub
 
-Project & Bug Tracking: JIRA
+Project Management & Bug Tracking: Agile, JIRA
 
 Others: Strong knowledge of STLC, SDLC, and Defect Life Cycle
 
