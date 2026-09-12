@@ -2,16 +2,14 @@
   
 🔍 Software Test Engineer passionate about uncovering bugs and ensuring product quality through precise testing practices.
 
-💻 Currently working on Automation Testing, Manual Testing, Selenium WebDriver, Java, and API Testing using Postman and Rest Assured.
+💻 Currently working on Automation Testing, Manual Testing, Selenium WebDriver, Java, and API Testing using Postman, Rest Assured.
 
 
 🤝 Open to collaboration on Test Automation Projects and building robust Automation Frameworks.
 
 📫 Let’s connect: www.linkedin.com/in/shubhamsultane
   
- I’m a passionate and detail-driven QA Engineer with proven experience in delivering high-quality, reliable, and scalable software through a blend of Manual and Automation Testing.
-
-🔍 I specialize in designing and executing robust test strategies to ensure product quality across web and API-based applications. My expertise lies in Functional, Regression, Smoke, and Integration Testing, following Agile Methodologies.
+ 
 
 🛠️ Tech Stack & Tools:
 
