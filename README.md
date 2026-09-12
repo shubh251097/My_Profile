@@ -8,13 +8,13 @@
 🤝 Open to collaboration on Test Automation Projects and building robust Automation Frameworks.
 
 📫 Let’s connect: www.linkedin.com/in/shubhamsultane
-  
+  ##
+##
+ ##
 
- 
+## 🛠️ Tech Stack & Tools:
 
-🛠️ Tech Stack & Tools:
-
-Automation: Selenium WebDriver, Cucumber BDD, TestNG, Maven
+Automation: Selenium WebDriver, Java, Cucumber BDD, TestNG, Maven
 
 API Testing: Postman, REST Assured
 
