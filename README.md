@@ -10,7 +10,7 @@
 📫 Let’s connect: www.linkedin.com/in/shubhamsultane
   ##
 ##
- ##
+
 
 ## 🛠️ Tech Stack & Tools:
 
@@ -26,6 +26,8 @@ Project Management & Bug Tracking: Agile, JIRA
 
 Others: Strong knowledge of SDLC, STLC, and Defect Life Cycle
 
+##
+##
 
 🎯 My goal is to continue growing as a QA professional while contributing to reliable, user-centric, and high-performing software projects through structured and efficient testing processes.
 
