@@ -22,7 +22,7 @@ Performance Testing: JMeter
 
 CI/CD & Version Control: Jenkins, Git, GitHub
 
-Project Management & Bug Tracking: Agile, JIRA
+Project Management & Bug Tracking: Agile/Scrum, JIRA
 
 Others: Strong knowledge of SDLC, STLC, and Defect Life Cycle
 
