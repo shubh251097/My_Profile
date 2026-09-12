@@ -2,9 +2,8 @@
   
 🔍 Software Test Engineer passionate about uncovering bugs and ensuring product quality through precise testing practices.
 
-💻 Currently working on Manual Testing, Selenium Automation (Java), and API Testing using Postman and Rest Assured.
+💻 Currently working on Automation Testing, Manual Testing, Selenium WebDriver, Java, and API Testing using Postman and Rest Assured.
 
-🚀 Actively learning API Automation with Rest Assured to enhance backend testing skills.
 
 🤝 Open to collaboration on Test Automation Projects and building robust Automation Frameworks.
 
